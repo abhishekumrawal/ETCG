@@ -1,0 +1,1 @@
+Run main.py to reproduce the weighted cover example plot, and n, k-dependence plots.
